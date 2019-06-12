@@ -1,0 +1,11 @@
+.header {
+    text-align: center;
+}
+
+.main {
+    width: 200px;
+    height: 80px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 33px;
+}

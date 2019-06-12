@@ -1,0 +1,20 @@
+{
+    "name": "Record And Share Music Ideas",
+    "short_name": "Notes Pocket",
+    "icons": [
+        {
+            "src": "/src/images/icons/apple-touch-icon-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        }
+    ],
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "theme_color": "#ffffff",
+    "description": "A progressive web app to transcribe and share music ideas.",
+    "dir": "ltr",
+    "lang": "en-US"
+}

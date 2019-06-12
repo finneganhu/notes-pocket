@@ -1,0 +1,5 @@
+#record-interface {
+  text-align: center;
+  display: none;
+  transition: transform 0.3s;
+}
